@@ -1,3 +1,5 @@
+#created by ritika
+
 def Merge(array,p,q,r)
 	i = 0
 	
